@@ -1,4 +1,10 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+import SwiftUI
 
-print("Hello, world!")
+@main
+struct DocumentEditorApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
