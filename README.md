@@ -1,9 +1,10 @@
 # document-editor
 This is a test of GitHub Copilot agent. All code in this project is made by GitHub Copilot. This code may or may not work.
 
-Prompt used:
+Prompt Used:
 Create a SwiftUI document editor in this repository. Use SwiftData for document management and a nice UI, include basic text styling.
-========
+
+-------
 # Document Editor
 
 A SwiftUI-based document editor application with SwiftData for document management, created for GitHub Copilot Agent demonstration.
