@@ -1,5 +1,5 @@
 # document-editor
-this is a test of github copilot agent, all code in this project is made by github copilot
+This is a test of GitHub Copilot agent. All code in this project is made by github copilot
 
-prompt used:
-create a swiftui document editor in this repository. use swiftdata for document management and a nice ui, include basic text styling.
+Prompt used:
+Create a SwiftUI document editor in this repository. Use SwiftData for document management and a nice UI, include basic text styling.
